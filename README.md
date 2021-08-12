@@ -1,0 +1,1 @@
+Prueba básica de docker en terraform, partiendo del tutorial de la página oficial de terraform: https://learn.hashicorp.com/collections/terraform/docker-get-started
